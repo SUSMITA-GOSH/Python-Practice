@@ -1,0 +1,10 @@
+#Madlibs game
+adj1=input("Enter an adj(description) ")
+noun1=input("enter a noun")
+adj2=input("Enter an adj(description) ")
+verb1=input("enter a verb with ing ")
+adj3=input("Enter an adj(description)")
+print(f"Today i went to a {adj1} park")
+print(f"in a exhibit , i saw a {noun1}")
+print(f"{noun1} was {adj2} and {verb1}")
+print(f" i was {adj3}")
